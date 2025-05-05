@@ -1,7 +1,7 @@
 ## Hi, bienvenue sur mon GitHub ! 🤗
 
 # 🙋🏾‍♀️ À mon sujet :
-Je m'appelle Ariella et je suis une développeuse junior passionnée par le développement logiciel. Avec une soif d'apprendre insatiable et un engagement à explorer les multiples facettes de ce domaine dynamique, je suis en pleine exploration pour identifier la spécialisation qui correspondra le mieux à mes compétences et intérêts.
+Je m'appelle Ariella et je suis une développeuse junior passionnée par le développement web. Avec une soif d'apprendre insatiable et un engagement à explorer les multiples facettes de ce domaine dynamique, je suis en pleine exploration pour identifier la spécialisation qui correspondra le mieux à mes compétences et intérêts.
 
 
 # 👩🏾‍💻 Tech Stack:
